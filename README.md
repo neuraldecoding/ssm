@@ -1,6 +1,8 @@
 # ssm
 Mamba Based
 
+Beberapa paper yang masuk genuinely menarik dan high-signal: FEMBA (deploy di GAP9 MCU), NeuroMamba (sEEG speech synthesis), EEGMamba (foundation model 16,724 jam EEG), Brain-Mamba (multi-modal)
+
 https://doi.org/10.1109/DTPI61353.2024.10778699
 https://doi.org/10.1109/ISIBER68248.2026.11470010
 https://doi.org/10.1109/IJCNN64981.2025.11228696
