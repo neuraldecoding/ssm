@@ -3,6 +3,12 @@ Mamba Based
 
 Beberapa paper yang masuk genuinely menarik dan high-signal: FEMBA (deploy di GAP9 MCU), NeuroMamba (sEEG speech synthesis), EEGMamba (foundation model 16,724 jam EEG), Brain-Mamba (multi-modal)
 
+Paper EEGMamba — terpotong sebelum hasil kuantitatif (ini padahal foundation model penting!)
+
+FA-STTM — hanya tersedia sampai Section 3, padahal klaim SOTA untuk MI-EEG
+
+MI-DGHCL — truncation sebelum Section 4 (eksperimen), sehingga domain generalization claims tidak terverifikasi
+
 https://doi.org/10.1109/DTPI61353.2024.10778699
 https://doi.org/10.1109/ISIBER68248.2026.11470010
 https://doi.org/10.1109/IJCNN64981.2025.11228696
